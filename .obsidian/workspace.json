@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "3b7c38a7156f65d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a12d2f76536ad716",
+        "type": "split",
+        "dimension": 58.716075156576196,
+        "children": [
+          {
+            "id": "74cc0ccf7fe09f01",
+            "type": "tabs",
+            "dimension": 52.44252873563219,
+            "children": [
+              {
+                "id": "25670ec486c6f481",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Заметки.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Заметки"
+                }
+              }
+            ]
+          },
+          {
+            "id": "da07ada35a1d1dd8",
+            "type": "tabs",
+            "dimension": 47.55747126436782,
+            "children": [
+              {
+                "id": "0d8189171bbded95",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Локации/Чульт.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Чульт"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "784fe020a5d2feae",
+        "type": "tabs",
+        "dimension": 41.2839248434238,
+        "children": [
+          {
+            "id": "f66428bc7fb399d0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6cbf109bcaf02b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2207f7e74ade2679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce53e43acd2c071",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "ea97c562f5ebfd8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9c6ab3a085269376",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfa74d6c87b3f57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de52d2dd2dcce8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cf5a23a50f770b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "42749e7c6341d64d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "eebcfef4ca4dea76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f9566298ccf3cf88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "65a2427bd0c8839c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": true,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f66428bc7fb399d0",
+  "lastOpenFiles": [
+    "Локации/Чульт.md",
+    "Локации/Лейлон.md",
+    "Заметки.md",
+    "Задачи.md",
+    "Локации/Кладбище рядом с Лейлоном.md",
+    "Персонажи/Прочие.md",
+    "Локации/Горы Фандалина.md",
+    "Боги/Тимора.md",
+    "Боги/Гонд.md",
+    "Персонажи/Невервинтер/Торик Рыжебородый.md",
+    "Персонажи/Невервинтер/Сэмюэль Хиддер.md",
+    "Персонажи/Невервинтер",
+    "Локации/Невервинтер.md",
+    "Локации/Поместье Крипгарденов.md",
+    "Персонажи/9 упырей/9 упырей.md",
+    "Персонажи/Совет Лейлона/Совет Лейлона.md",
+    "Локации/Топь мертвецов.md",
+    "Боги/Боги.md",
+    "123/Без названия.md",
+    "123",
+    "Персонажи/9 упырей/Без названия.canvas",
+    "Без названия.md",
+    "Локации",
+    "Персонажи/Таливар.md",
+    "Персонажи/Совет Лейлона/Вангал Кусколд.md",
+    "Персонажи/Совет Лейлона/Мерриголд Светлое Сияние.md",
+    "Боги",
+    "Мериголдь Светлое Сияние.md",
+    "Персонажи/Совет Лейлона/Галлио Эллибро.md",
+    "Персонажи/Совет Лейлона/Вальди Эстопар.md",
+    "Персонажи/Совет Лейлона/Грезельда Метноцвет.md",
+    "Персонажи/Совет Лейлона",
+    "Персонажи/9 упырей/Без названия",
+    "Персонажи/9 упырей",
+    "Персонажи"
+  ]
+}
