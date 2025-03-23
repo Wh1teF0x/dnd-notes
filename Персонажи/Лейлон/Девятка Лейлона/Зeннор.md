@@ -1,4 +1,7 @@
-#dead #orc #no_spec #9_founders
+---
+tags: [9_founders, dead, no_spec, orc]
+---
+![[Зеннор.png]]
 
 - Орчиха
 - Скорее всего мертва
