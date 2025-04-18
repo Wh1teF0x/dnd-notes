@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "callout-manager",
+  "obsidian-linter",
+  "novel-word-count",
+  "waypoint"
 ]
