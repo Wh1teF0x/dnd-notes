@@ -1,10 +1,13 @@
 #!/bin/bash
 
-ls
 touch __obsidian/index.md
 echo "![[Заметки]]" >>__obsidian/index.md
 
-npm ci
+cd __site
+
+npm i
 
 npx quartz create --strategy copy --links shortest --source __obsidian
 npx quartz build
+
+mv public ..
