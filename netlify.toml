@@ -1,3 +1,3 @@
 [build]
-command = "rm -rf __obsidian __site __scripts && mkdir __obsidian && mkdir __scripts && mv .scripts/run.sh __scripts && chmod 755 .scripts/run.sh && mv [!_][!_]* __obsidian || true && git clone https://github.com/jackyzha0/quartz.git __site && __scripts/run.sh"
+command = "rm -rf __obsidian __site __scripts && mkdir __obsidian && mkdir __scripts && chmod 755 .scripts/* && mv .scripts/* __scripts && mv [!_][!_]* __obsidian || true && git clone https://github.com/jackyzha0/quartz.git __site && __scripts/run.sh"
 publish = "public"
