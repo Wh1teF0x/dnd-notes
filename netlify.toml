@@ -3,11 +3,13 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
+LANDING_BUTTON = "Вперед к знаниям"
+LANDING_DESCRIPTION = "Заметки нашей невероятной партии"
 LANDING_PAGE = "Заметки"
-LANDING_TITLE = "Campaing notes"
+LANDING_TITLE = ""
 PYTHON_VERSION = "3.8"
 REPO_URL = "https://github.com/Wh1teF0x/dnd-notes"
-SITE_TITLE = "Campaing notes"
+SITE_TITLE = "Заметки"
 SITE_TITLE_TAB = ""
 SITE_URL = "https://campaing-notes.netlify.app/"
 ZOLA_VERSION = "0.15.2"
