@@ -13,13 +13,13 @@ SITE_URL = "https://campaing-notes.netlify.app/"
 ZOLA_VERSION = "0.15.2"
 SORT_BY = "title"
 # (Optional, default true) Slugify URLs. Put "" to disable.
-SLUGIFY = "y"
+SLUGIFY = ""
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
-HOME_GRAPH = "y"
+HOME_GRAPH = ""
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
+PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
-SIDEBAR_COLLAPSED = ""
+SIDEBAR_COLLAPSED = "y"
 # (Optional, default blank) Additional footer content.
 FOOTER = ""
 # (Optional, default main) Root section name.
