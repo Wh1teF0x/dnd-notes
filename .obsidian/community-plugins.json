@@ -3,5 +3,6 @@
   "callout-manager",
   "obsidian-linter",
   "novel-word-count",
-  "waypoint"
+  "waypoint",
+  "obsidian-leaflet-plugin"
 ]
