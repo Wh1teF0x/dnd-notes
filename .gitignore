@@ -1,2 +1,4 @@
 .trash
 .obsidian/workspace*
+.obsidian/bookmarks.json
+.obsidian/plugins/novel-word-count/data.json
