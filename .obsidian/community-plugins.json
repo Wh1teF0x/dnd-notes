@@ -1,8 +1,8 @@
 [
   "obsidian-git",
-  "callout-manager",
   "obsidian-linter",
   "novel-word-count",
-  "waypoint",
-  "obsidian-leaflet-plugin"
+  "callout-manager",
+  "obsidian-leaflet-plugin",
+  "waypoint"
 ]
