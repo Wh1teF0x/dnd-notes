@@ -1,5 +1,5 @@
 .trash
 .obsidian/workspace*
 .obsidian/bookmarks.json
-.obsidian/plugins/*
-!.obsidian/plugins/obsidian-linter/data.json
+
+.obsidian/plugins/novel-word-count/*
