@@ -1,102 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "sword-coast",
-      "lastAccessed": 1745093253245,
-      "markers": [
-        {
-          "id": "ID_f869d9ba280a",
-          "type": "default",
-          "loc": [
-            44.580078125,
-            29.671875
-          ],
-          "link": "Карта Лейлона",
-          "layer": "%5B%5BSword%20Coast.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c9ba28ca7aba",
-          "type": "default",
-          "loc": [
-            40.830078125,
-            30.421875
-          ],
-          "link": "Топь мертвецов",
-          "layer": "%5B%5BSword%20Coast.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e80ab8d9b8da",
-          "type": "default",
-          "loc": [
-            45.78515625,
-            33.90625
-          ],
-          "link": "Горы Фандалина",
-          "layer": "%5B%5BSword%20Coast.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2b6be8796ac8",
-          "type": "default",
-          "loc": [
-            59.548828125,
-            26.109375
-          ],
-          "link": "Невервинтер",
-          "layer": "%5B%5BSword%20Coast.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a9e81b1a292a",
-          "type": "default",
-          "loc": [
-            20.53515625,
-            38.90625
-          ],
-          "link": "Глубоководье",
-          "layer": "%5B%5BSword%20Coast.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Карты/Побережье мечей.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -126,8 +29,8 @@
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {
-    "darkMode": false,
-    "defaultZoom": 7,
+    "darkMode": "false",
+    "defaultZoom": 3,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -143,17 +46,23 @@
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [],
+    "marker": [
+      "default,40.83,30.42,Топь мертвецов,,,",
+      "default,45.78515625,33.90625,Горы Фандалина,,,",
+      "default,44.580078125,29.671875,Лейлон,,,",
+      "default,59.548828125,26.109375,Невервинтер,,,",
+      "default,20.53515625,38.90625,Глубоководье,,,"
+    ],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 10,
+    "maxZoom": 20,
     "minZoom": 1,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 2,
+    "scale": 1,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
@@ -161,6 +70,17 @@
     "zoomFeatures": false,
     "id": "sword-coast",
     "unit": "meters",
+    "draw": false,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        100,
+        100
+      ]
+    ],
     "filterTag": []
   },
   "enableDraw": true,
