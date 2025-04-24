@@ -1,0 +1,22 @@
+[
+  {
+    "type": "place",
+    "iconName": "place-of-worship",
+    "color": "#03fcb6"
+  },
+  {
+    "type": "event",
+    "iconName": "calendar",
+    "color": "#fcba03"
+  },
+  {
+    "type": "quest",
+    "iconName": "question",
+    "color": "#fcba03"
+  },
+  {
+    "type": "death",
+    "iconName": "skull",
+    "color": "#ffffff"
+  }
+]
