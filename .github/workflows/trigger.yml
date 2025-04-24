@@ -1,7 +1,7 @@
 name: Trigger redeploy on Netlify
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
 jobs:
   build:
     name: Make POST request
@@ -9,6 +9,4 @@ jobs:
     steps:
       - name: Curl request
         shell: bash
-        env:
-          UNIQUE_STRING: ${{ secrets.NETLIFY_BUILD_HOOK_UNIQUE_STRING }}
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/$UNIQUE_STRING
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/${{ secrets.NETLIFY_BUILD_HOOK_UNIQUE_STRING }}
