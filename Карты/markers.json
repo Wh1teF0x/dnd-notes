@@ -2,21 +2,25 @@
   {
     "type": "place",
     "iconName": "place-of-worship",
-    "color": "#03fcb6"
+    "color": "#03fcb6",
+    "label": "Места"
   },
   {
     "type": "event",
     "iconName": "calendar",
-    "color": "#fcba03"
+    "color": "#fcba03",
+    "label": "События"
   },
   {
     "type": "quest",
     "iconName": "question",
-    "color": "#fcba03"
+    "color": "#fcba03",
+    "label": "Квесты"
   },
   {
     "type": "death",
     "iconName": "skull",
-    "color": "#ffffff"
+    "color": "#ffffff",
+    "label": "Смерти"
   }
 ]
