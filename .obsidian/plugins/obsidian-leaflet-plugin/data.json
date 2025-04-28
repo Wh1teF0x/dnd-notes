@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "sword-coast",
+      "lastAccessed": 1745875283349,
+      "markers": [
+        {
+          "id": "ID_d93bd8fa298a",
+          "type": "place",
+          "loc": [
+            45.1712908744812,
+            59.85781288146973
+          ],
+          "link": "Миствуд",
+          "layer": "%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8%2FSword_Coast.webp",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Карты/Побережье мечей.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
