@@ -2,8 +2,8 @@
   "obsidian-git",
   "obsidian-linter",
   "novel-word-count",
-  "callout-manager",
   "obsidian-leaflet-plugin",
   "waypoint",
-  "multi-tag"
+  "multi-tag",
+  "dataview"
 ]
